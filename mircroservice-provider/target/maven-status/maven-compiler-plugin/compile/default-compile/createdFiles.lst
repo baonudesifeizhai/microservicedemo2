@@ -1,0 +1,4 @@
+provider\UserController.class
+provider\UserService.class
+provider\UserServiceApplication.class
+provider\User.class
